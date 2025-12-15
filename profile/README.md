@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-We are the NeuroAI laboratory in the Center for Memory and Glioscience (CMG) at the Institute for Basic Science (IBS).
+We are the Neuroscience-inspired AI group in the Center for Memory and Glioscience (CMG) at the Institute for Basic Science (IBS).
