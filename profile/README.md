@@ -1,4 +1,4 @@
-# IBS NeuroAI lab 👋
+# IBS NeuroAI group 👋
 
 <!--
 
